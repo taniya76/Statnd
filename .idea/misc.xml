@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/drawable/edittext_background.xml" value="0.121" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/layout/activity_order.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/layout/sample_mainfood.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/layout/sample_order.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/Demo/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/activity_detail.xml" value="0.18298418127404875" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/activity_main.xml" value="0.18298418127404875" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/activity_order.xml" value="0.18298418127404875" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/recommendation_sample_view.xml" value="0.25" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/sample_mainfood.xml" value="0.17238183503243745" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/layout/sample_order.xml" value="0.17238183503243745" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Desktop/new demo/Demo/app/src/main/res/menu/menu.xml" value="0.18298418127404875" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/drawable/btn_background.xml" value="0.175" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/drawable/edittext_background.xml" value="0.175" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1765" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/layout/activity_order.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/layout/sample_mainfood.xml" value="0.1" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/layout/sample_order.xml" value="0.33" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/ANDROID_PROJECTS/Demo/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/Demo/app/src/main/res/layout/activity_main.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/taniya mittal/OneDrive/Documents/Demo/app/src/main/res/layout/sample_mainfood.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
